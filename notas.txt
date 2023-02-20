@@ -1,0 +1,1 @@
+Cuando handlebars renderice una vista por defecto lo busca en la carpeta views
